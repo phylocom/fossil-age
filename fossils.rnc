@@ -5,11 +5,15 @@
 start =
    element fossilAgeDB {
       element fossil {
+         ## clade name should match APG/APweb/phylomatic clade name, 
+         ##   in lower case
          element clade { xsd:NCName } &
          element group { "stem" | "crown" } &
+         ## in Mya
          element ageOldest { xsd:decimal } &
          element pub {
             element freeText { text }? &
+            ## check out: http://search.labs.crossref.org/
             element uri { xsd:anyURI }? 
          }+ &
          element notes { text }?     
