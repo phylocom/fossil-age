@@ -16,6 +16,9 @@ start =
             ## check out: http://search.labs.crossref.org/
             element uri { xsd:anyURI }? 
          }+ &
-         element notes { text }?     
+         element recordInfo { 
+            attribute date { xsd:date } &
+            text 
+         }*     
       }+
    }
