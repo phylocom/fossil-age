@@ -1,0 +1,28 @@
+<fossilAgeDB>
+  <fossil>
+    <clade>laurales</clade>
+    <group>crown</group>
+    <ageOldest>108.8</ageOldest>
+    <pub>
+      <freeText>
+        Crane, P. R., E. M. Friis, and K. R. Pedersen. 1994. Palaeobotanical
+        evidence on the early radiation of magnoliid angiosperms. Plant
+        Syst. Evol. 8(Suppl.):51–72.
+      </freeText>
+    </pub>
+  </fossil>
+  <fossil>
+    <clade>buxales</clade>
+    <group>stem</group>
+    <ageOldest>102.2</ageOldest>
+    <pub>
+      <freeText>
+        Drinnan, A. N., P. R. Crane, E. M. Friis, and
+        K. R. Pedersen. 1991. Angiosperm flowers and tricolpate pollen
+        of Buxaceous affinity from the Potomac Group (Mid-Cretaceous)
+        of eastern North America. Am. J. Bot. 78:153–176.
+      </freeText>
+      <uri>http://dx.doi.org/10.2307/2445239</uri>
+    </pub>
+  </fossil>
+</fossilAgeDB>

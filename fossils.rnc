@@ -1,0 +1,16 @@
+## Relax NG compact schema for fossilAgesDB db
+
+default namespace = ""
+
+start =
+  element fossilAgeDB {
+    element fossil {
+      element clade { xsd:NCName } &
+      element group { "stem" | "crown" } &
+      element ageOldest { xsd:decimal } &
+      element pub {
+        element freeText { text }? &
+        element uri { xsd:anyURI }?
+      }+
+    }+
+  }
