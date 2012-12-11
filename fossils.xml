@@ -10,6 +10,10 @@
         Syst. Evol. 8(Suppl.):51–72.
       </freeText>
     </pub>
+    <notes>
+      Transcribed directly from Table 1 in Magallón &amp; Sanderson
+      (2001, Evolution, 55:1762-1780)
+    </notes>
   </fossil>
   <fossil>
     <clade>buxales</clade>
@@ -24,5 +28,9 @@
       </freeText>
       <uri>http://dx.doi.org/10.2307/2445239</uri>
     </pub>
+    <notes>
+      Transcribed directly from Table 1 in Magallón &amp; Sanderson
+      (2001, Evolution, 55:1762-1780)
+    </notes>
   </fossil>
 </fossilAgeDB>
